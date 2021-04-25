@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/20-homework-react/static/css/main.cd1afb06.chunk.css",
+    "main.js": "/20-homework-react/static/js/main.c7411640.chunk.js",
+    "main.js.map": "/20-homework-react/static/js/main.c7411640.chunk.js.map",
+    "runtime-main.js": "/20-homework-react/static/js/runtime-main.84afaa55.js",
+    "runtime-main.js.map": "/20-homework-react/static/js/runtime-main.84afaa55.js.map",
+    "static/js/2.f4f1627c.chunk.js": "/20-homework-react/static/js/2.f4f1627c.chunk.js",
+    "static/js/2.f4f1627c.chunk.js.map": "/20-homework-react/static/js/2.f4f1627c.chunk.js.map",
+    "static/js/3.75978f52.chunk.js": "/20-homework-react/static/js/3.75978f52.chunk.js",
+    "static/js/3.75978f52.chunk.js.map": "/20-homework-react/static/js/3.75978f52.chunk.js.map",
+    "index.html": "/20-homework-react/index.html",
+    "static/css/main.cd1afb06.chunk.css.map": "/20-homework-react/static/css/main.cd1afb06.chunk.css.map",
+    "static/js/2.f4f1627c.chunk.js.LICENSE.txt": "/20-homework-react/static/js/2.f4f1627c.chunk.js.LICENSE.txt",
+    "static/media/TelegramPhoto.6ea3334d.jpeg": "/20-homework-react/static/media/TelegramPhoto.6ea3334d.jpeg",
+    "static/media/tg1.2857c3ac.webp": "/20-homework-react/static/media/tg1.2857c3ac.webp",
+    "static/media/tg2.4df95692.jpeg": "/20-homework-react/static/media/tg2.4df95692.jpeg",
+    "static/media/tg3.ae808ebc.jpeg": "/20-homework-react/static/media/tg3.ae808ebc.jpeg",
+    "static/media/tg5.909cc6ca.jpeg": "/20-homework-react/static/media/tg5.909cc6ca.jpeg",
+    "static/media/tg6.77e3cd96.jpg": "/20-homework-react/static/media/tg6.77e3cd96.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84afaa55.js",
+    "static/js/2.f4f1627c.chunk.js",
+    "static/css/main.cd1afb06.chunk.css",
+    "static/js/main.c7411640.chunk.js"
+  ]
+}
